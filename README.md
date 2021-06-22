@@ -74,6 +74,8 @@ Hur skriver man en applikation med grafiska komponenter? (knappar och bilder osv
 
 SOLID-designprinciper
 
+[Material](https://stackify.com/solid-design-principles/)
+
 <ol>
     <li>Intro Solid. <ul>
         <li>Vad är det? Vem är Robert C. Martin + <a href="https://tinyurl.com/pw5bsxus">Video</a></li>
