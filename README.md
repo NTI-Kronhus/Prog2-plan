@@ -47,15 +47,15 @@ Repeterar grunderna från Programmering 1 samt bli lite varma i kläderna och hu
         <li>Genomgång</li>
         <li>Labb <a href="https://csharpskolan.se/article/uml/">Video</a></li>
     </ul></li>
-    <li>Arv<ul>
+    <li>Arv <a href="https://www.w3schools.com/cs/cs_inheritance.php">Material</a><ul>
         <li>Genomgång</li>
         <li>Labb</li>
     </ul></li>
-    <li>Polymorfism<ul>
-        <li>Genomgång Abstrakta klasser</li>
+    <li>Polymorfism <a href="https://www.w3schools.com/cs/cs_polymorphism.php">Material</a><ul>
+        <li>Genomgång Abstrakta klasser <a href="https://www.w3schools.com/cs/cs_abstract.php">Material</a></li>
         <li>Labb</li>
     </ul></li>
-    <li>Komposition<ul>
+    <li>Komposition <a href="https://www.w3schools.com/cs/cs_interface.php">Material</a><ul>
         <li>Genomgång</li>
         <li>Labb</li>
     </ul></li>
