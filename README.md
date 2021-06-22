@@ -45,7 +45,7 @@ Repeterar grunderna från Programmering 1 samt bli lite varma i kläderna och hu
     </ul></li>
     <li>Klassdiagram UML<ul>
         <li>Genomgång</li>
-        <li>Labb <a href="https://csharpskolan.se/article/uml/">Video</a></li>
+        <li>Labb <a href="https://csharpskolan.se/article/uml/">Övning</a></li>
     </ul></li>
     <li>Arv <a href="https://www.w3schools.com/cs/cs_inheritance.php">Material</a><ul>
         <li>Genomgång</li>
